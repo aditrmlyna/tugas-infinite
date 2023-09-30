@@ -76,7 +76,7 @@ nav img {
 .home p:nth-child(2) {
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
-  color: #6d6d6d;
+  color: #c3af91;
   letter-spacing: none;
   font-size: 40px;
   margin-top: 60px;
@@ -131,7 +131,7 @@ nav img {
   margin: 50px 50px;
 }
 .about-desc p:nth-child(1) {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: bold;
   color: black;
   line-height: 0;
@@ -153,6 +153,8 @@ nav img {
 
 .row .column h2 {
   text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
 }
 .row .column p {
   text-align: justify;
@@ -176,7 +178,7 @@ nav img {
 }
 
 .skill-desc p:nth-child(1) {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: bold;
   color: black;
   font-size: 30px;
@@ -220,7 +222,6 @@ nav img {
   align-items: center;
   justify-content: center;
   display: flex;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-weight: bold;
 }
 .box-1 p:nth-child(3),
@@ -243,7 +244,7 @@ nav img {
   margin: 50px 50px;
 }
 .contact-desc p:nth-child(1) {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: bold;
   color: black;
   font-size: 30px;
@@ -307,14 +308,14 @@ footer p:nth-child(1) {
   font-weight: bold;
   color: black;
   line-height: 20px;
+  font-family: "Montserrat", sans-serif;
 }
 footer p:nth-child(2) {
-  font-size: 18px;
-  font-weight: bold;
-  color: black;
+  color: #7e7e7e;
   line-height: 20px;
   margin-left: 50px;
   margin-right: 50px;
+  text-align: center;
 }
 
 .social-icons {
